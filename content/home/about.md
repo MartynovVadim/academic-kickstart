@@ -11,7 +11,7 @@ title = "Bio"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
-+++
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -31,3 +31,4 @@ author = "admin"
 
   # Text color (true=light or false=dark).
   text_color_light = true
++++
