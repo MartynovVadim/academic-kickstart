@@ -41,10 +41,10 @@ date_format = "Jan 2006"
   date_start = "2018-06-07"
   date_end = "2018-08-18"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
-  * Created a Scenario Analysis application for the hedge fund
-  * Implemented a pricing function and calculated Greeks for Credit Default Swap Options
+  * Creating a Scenario Analysis application for the hedge fund
+  * Implementing a pricing function and calculating Greeks for Credit Default Swap Options
   """
 
 [[experience]]
@@ -61,4 +61,16 @@ date_format = "Jan 2006"
   * Linear Algebra
   * Calculus
   """
+  
+[[experience]]
+  title = "Mathematical Olympiad Works Inspector"
+  company = " The Mathematical Feast,  Interregional Mathematical Olympiad of NRU HSE"
+  company_url = ""
+  location = "Moscow, Russia"
+  date_start = "2011-09-01"
+  date_end = "2015-03-30"
+  description = ""
+  
+  
+  
 +++
