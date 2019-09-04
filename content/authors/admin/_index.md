@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student of Economics
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: California Insitute of Technology
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,16 +27,12 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Quantitative Economics
-#    institution: California Institute 
-#    year: 2012
   - course: MS in Quantitative Economics
   institution: California Institute of Technology
   year: 2017
   - course: BSc in Mathematics
   institution: National Research University Higher School of Economics
   year: 2015
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:vadimmartynov57@gmail.com".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/MartynovVadim
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,3 +70,4 @@ user_groups:
 I am a fifth year Ph.D. student in Quantitative Economics at Caltech supervised by Omer Tamuz. My research is in Microeconomic Theory, more specifically in Social Learning, Networks and Game Theory. I am interested in how information is aggregated in society and how it can be improved.
 
 I also participate in an annual Chicago Quantitative Alliance Challenge where the goal is to successfully run a virtual hedge fund.
+
