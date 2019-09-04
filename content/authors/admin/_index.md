@@ -28,11 +28,11 @@ interests:
 education:
   courses:
   - course: MS in Quantitative Economics
-  institution: California Institute of Technology
-  year: 2017
+    institution: California Institute of Technology
+    year: 2017
   - course: BSc in Mathematics
-  institution: National Research University Higher School of Economics
-  year: 2015
+    institution: National Research University Higher School of Economics
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
