@@ -31,11 +31,11 @@ education:
 #    institution: California Institute 
 #    year: 2012
   - course: MS in Quantitative Economics
-institution: California Institute of Technology
-year: 2017
-- course: BSc in Mathematics
-institution: National Research University Higher School of Economics
-year: 2015
+  institution: California Institute of Technology
+  year: 2017
+  - course: BSc in Mathematics
+  institution: National Research University Higher School of Economics
+  year: 2015
 
 
 # Social/Academic Networking
