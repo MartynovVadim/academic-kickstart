@@ -18,13 +18,13 @@ abstract:  We study how social planning can reduce the inefficiencies of  social
 
 links:
 - name: PDF
-  url:  ''
+  url:  'files/Subsidizing Lemons.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'files/Subsidizing Lemons.pdf'
+url_source: ''
 url_video: ''
 
 ---
