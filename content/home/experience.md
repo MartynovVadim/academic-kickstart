@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant"
+  company = "Caltech"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2016-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Game Theory
+  * Advanced Game Theory
+  * Bayesian Statistics
+  * Cognitive Neuroscience
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Quantitative Risk Intern"
+  company = "Western Asset Management"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2018-06-07"
+  date_end = "2018-08-18"
+  description = """
+  Responsibilities include:
+  
+  * Created a Scenario Analysis application for the hedge fund
+  * Implemented a pricing function and calculated Greeks for Credit Default Swap Options
+  """
 
+[[experience]]
+  title = "Teaching Assistant"
+  company = "NRU Higher School of Economics"
+  company_url = ""
+  location = "Moscow, Russia"
+  date_start = "2012-09-01"
+  date_end = "2015-03-30"
+  description = """
+  Responsibilities include:
+  
+  * Analysis
+  * Linear Algebra
+  * Calculus
+  """
 +++
