@@ -1,16 +1,22 @@
 ---
-[background]
-  # Background color.
-  color = "navy"
-  
-  # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-  
-  # Background image.
-  image = "background.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+[design]
+#   Choose how many columns the section has. Valid values: 1 or 2.
+#  columns = "1"
 
+[design.background]
+#     Apply a background color, gradient, or image.
+#     Uncomment (by removing `#`) an option to apply it.
+#     Choose a light or dark text color by setting `text_color_light`.
+#     Any HTML color name or Hex value is valid.
+
+#    Background color.
+    color = "navy"
+  
+#    Background gradient.
+#    gradient_start = "DeepSkyBlue"
+#    gradient_end = "SkyBlue"
+  
+  
   # Text color (true=light or false=dark).
   text_color_light = true
   
@@ -81,7 +87,7 @@ user_groups:
 - Visitors
 ---
 
-I am a fifth year Ph.D. student in Quantitative Economics at Caltech supervised by Omer Tamuz. My research is in Microeconomic Theory, more specifically in Social Learning, Networks and Game Theory. I am interested in how information is aggregated in society and how it can be improved.
+I am a fifth year Ph.D. student in Quantitative Economics at Caltech supervised by [Omer Tamuz](http://tamuz.caltech.edu/). My research is in Microeconomic Theory, more specifically in Social Learning, Networks and Game Theory. I am interested in how information is aggregated in society and how it can be improved.
 
 I also participate in an annual Chicago Quantitative Alliance Challenge where the goal is to successfully run a virtual hedge fund.
 
