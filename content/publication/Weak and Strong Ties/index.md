@@ -2,9 +2,6 @@
 title: "Weak and Strong ties"
 authors:
 - admin
-- Franck Iutzeler
-- Jerome Malick
-- Massih-Reza Amini
 date: "2018-12-10T00:00:00Z"
 doi: ""
 

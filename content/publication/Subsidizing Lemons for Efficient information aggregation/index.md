@@ -17,14 +17,14 @@ image:
 abstract:  We study how social planning can reduce the inefficiencies of  social learning, stemming from herding and informational cascades.  A social planner  is introduced to the  classical sequential social learning model. She can tax or subsidize players' actions in order to maximize social welfare, a discounted sum of agents' utilities. We solve or accurately approximate the expected utility of the social planner and  the optimal pricing strategy for various signal distributions. In equilibrium,  it is optimal to increase the price for the better action, causing a reduction in current agent's utility, but also a net gain, due to the information  this action reveals. The addition of the social planner significantly improves  social welfare and the asymptotic speed of learning.
 
 links:
-- name: PDF in Russian
-  url:  https://www.mccme.ru/free-books/matpros/mph.pdf 
+- name: PDF
+  url:  ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'files/Subsidizing Lemons.pdf'
 url_video: ''
 
 ---
