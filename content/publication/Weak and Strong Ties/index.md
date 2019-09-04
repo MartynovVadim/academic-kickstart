@@ -1,5 +1,5 @@
 ---
-title: "Asynchronous Distributed Learning with Sparse Communications and Identification"
+title: "Weak and Strong ties"
 authors:
 - admin
 - Franck Iutzeler
