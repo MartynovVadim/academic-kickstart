@@ -1,5 +1,5 @@
 ---
-title: "A Privacy Preserving Randomized Gossip Algorithm via Controlled Noise Insertion"
+title: "The speed of sequential asymptotic learning"
 authors:
 - Wade-Hann-Caruthers
 - Vadim Martynov
