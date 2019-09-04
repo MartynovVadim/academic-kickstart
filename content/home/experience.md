@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2016-09-01"
   date_end = ""
-  description = """
+  description = """ Conducting office hours, seminars, grading and helping create homeworks and final exams """
   Responsibilities include:
   
   * Game Theory
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2018-06-07"
   date_end = "2018-08-18"
-  description = """
+  description = """ Conducting office hours, seminars, grading and helping create homeworks and final exams """
   Responsibilities include:
   
   * Created a Scenario Analysis application for the hedge fund
