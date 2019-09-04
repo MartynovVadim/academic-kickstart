@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student of Economic
+role: Ph.D. student in Quantitative Economics
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,8 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Quantitative Economics
+    instutution: California Institute of Technology
   - course: MS in Quantitative Economics
     institution: California Institute of Technology
     year: 2017
