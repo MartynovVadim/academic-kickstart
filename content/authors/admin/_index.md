@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:martynov@caltech.com".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ru/citations?view_op=list_works&hl=en&user=yuVFwTsAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/MartynovVadim
