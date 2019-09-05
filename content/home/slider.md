@@ -60,7 +60,7 @@ height = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-    color = "purple"
+  #  color = "purple"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
