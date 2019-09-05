@@ -26,26 +26,18 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-10-01"
   date_end = "2019-04-15"
-  description = "Achieved 5.17% return from a market neuteral portfolio over 4.5 month period. The 4-th highest (out of 48) result was attained by implementing a multi - factor timing strategy."
+  description = "Achieved 5.17% return from a market neuteral portfolio over 4.5 month period. The 4-th highest (out of 48) result was attained by implementing a multi-factor timing strategy."
  
 [[item]]
-  organization = "European Youth Bridge Championship"
+  organization = ""
   organization_url = "http://www.eurobridge.org"
-  title = "Bridge"
+  title = "European Youth Bridge Championship"
   url = ""
   certificate_url = ""
   date_start = "2011-06-17"
   date_end = ""
   description = "Member of the national team"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+
 
 +++
