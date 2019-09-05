@@ -53,7 +53,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   
-  [design.background]
+[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
