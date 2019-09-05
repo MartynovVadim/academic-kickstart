@@ -30,13 +30,13 @@ date_format = "Jan 2006"
  
 [[item]]
   organization = "European Youth Bridge Championship"
-  organization_url = "http://www.eurobridge.org/"
-  title = ""
+  organization_url = "http://www.eurobridge.org"
+  title = "Bridge"
   url = ""
   certificate_url = ""
-  date_start = "2011"
+  date_start = "2011-06-17"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Member of the national team"
   
 [[item]]
   organization = "DataCamp"
