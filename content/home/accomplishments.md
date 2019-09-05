@@ -28,7 +28,16 @@ date_format = "Jan 2006"
   date_end = "2019-04-15"
   description = "Achieved 5.17% return from a market neuteral portfolio over 4.5 month period. The 4-th highest (out of 48) result was attained by implementing a multi - factor timing strategy."
  
-
+[[item]]
+  organization = "European Youth Bridge Championship"
+  organization_url = "http://www.eurobridge.org/"
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = "2011"
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
