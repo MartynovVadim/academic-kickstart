@@ -5,7 +5,7 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = “1950s”
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -102,7 +102,7 @@ map = 2
 map_api_key = "AIzaSyDAcDxE0xdKjpQNzYg2OD3BEPLXn4GhqUo"
 latitude = "34.138591"
 longitude = "-118.125193"
-zoom = 15
+zoom = 20
 
 ############################
 ## Plugins                ##
