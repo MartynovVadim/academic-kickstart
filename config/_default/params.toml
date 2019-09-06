@@ -80,7 +80,7 @@ address = "Baxter 218, Caltech, California, 91125, USA"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+contact_links = [{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Hugh57”},
   ]
 
 # Display a map.
